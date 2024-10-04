@@ -5,7 +5,7 @@ A project repository for managing and showcasing a shopping platform.
 ## Key Features
 
 - **Frontend Implementation**: A newly added frontend for the project.
-- **API Creation**: Backend API created to support the frontend operations.
+- **API Creation**: Backend API created to support the Payment operation using Stripe.
 
 ## Installation and Usage
 
